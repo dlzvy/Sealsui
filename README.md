@@ -1,1 +1,4 @@
-# Sealsui
+```bash
+cd sealsui
+pnpm dev
+```
