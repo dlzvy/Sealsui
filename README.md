@@ -1,7 +1,7 @@
 ## Run locally
 
 ```bash
-cd frontend
+cd sealsui
 pnpm install
 pnpm dev
 ```
